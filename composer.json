@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Build/php\\": "Tool" ,
+            "Model\\": "Model"
+        }
+    }
+}
